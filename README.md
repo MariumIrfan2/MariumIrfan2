@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marium Irfan</h1>
 <h3 align="center">A passionate MERN stack developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mariumirfan2&label=Profile%20views&color=0e75b6&style=flat" alt="mariumirfan2" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariumirfan2" alt="mariumirfan2" /></a> </p>
-
 - 🌱 I’m currently learning **React Native for Mobile Apps**
 
 - 💬 Ask me about **JavaScript, React.js**
